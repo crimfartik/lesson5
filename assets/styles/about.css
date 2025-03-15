@@ -1,0 +1,28 @@
+.about-wrapper {
+    width: 1230px;
+    margin: 0 auto;
+    padding-top: 120px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 120px;
+}
+
+.about-title {
+    width: 270px;
+    height: 218px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 120%;
+    letter-spacing: 0em;
+    color: #1f1f1f;
+}
+
+.about-right-part {
+    display: flex;
+}
+
+.about-card {
+    width: 222px;
+    height: 218px;
+}

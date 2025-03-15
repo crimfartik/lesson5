@@ -1,0 +1,38 @@
+.home-title {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 58px;
+  line-height: 110%;
+  letter-spacing: 0em;
+  color: #1f1f1f;
+  margin-bottom: 21px;
+}
+.home-wrapper {
+  width: 1230px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 433px;
+  
+}
+
+.home-title-desc {
+  width: 525px;
+  height: 321px;
+}
+
+.home-desc {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: 0.01em;
+  color: #1f1f1f;
+  margin-bottom: 32px;
+}
+
+.Learn-more-wrapper {
+  display: flex;
+  align-items: center;
+}

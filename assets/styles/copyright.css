@@ -1,0 +1,23 @@
+.copyright-wrapper {
+  width: 1230px;
+  margin: 0 auto;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.copyright-text {
+  font-family: "Inter", serif;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 151%;
+  letter-spacing: 0.02em;
+  color: #1f1f1f;
+}
+.link-copyright {
+  color: #0070a0;
+}
+.copyright-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

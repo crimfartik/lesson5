@@ -1,0 +1,40 @@
+.features-wrapper {
+  width: 1230px;
+  margin: 0 auto;
+  margin-top: 160px;
+  display: flex;
+  justify-content: space-between;
+}
+.feature-card {
+  width: 355px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  padding: 32px;
+  gap: 8px;
+}
+
+.feature-card-yellow {
+  background: #faea73;
+}
+.feature-card-blue {
+  background: #cceff6;
+}
+.feature-card-pink {
+  background: #f7cedc;
+}
+
+.feature-card-title {
+  font-size: 25px;
+  line-height: 125%;
+}
+.feature-card-desc {
+  font-size: 15px;
+  line-height: 160%;
+}
+.feature-card-text-size {
+  font-weight: 400;
+  font-family: "Inter", sans-serif;
+  letter-spacing: 0.01em;
+  color: #1f1f1f;
+}

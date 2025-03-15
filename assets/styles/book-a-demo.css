@@ -1,0 +1,54 @@
+.book-a-demo-wrapper {
+  width: 1230px;
+  margin: 0 auto;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.book-a-demo-title {
+  font-family: "Inter", serif;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 120%;
+  letter-spacing: 0em;
+  color: #1f1f1f;
+  margin-bottom: 18px;
+}
+
+.book-a-demo-desc {
+  width: 503px;
+  font-family: "Inter", serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  letter-spacing: 0.01em;
+  color: #1f1f1f;
+  margin-bottom: 36px;
+}
+
+.book-a-demo-btn {
+  font-family: "Inter", serif;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 159%;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #fff;
+  background: #0070a0;
+  border: none;
+  padding: 8px 32px;
+  margin-bottom: 12px;
+}
+
+.book-a-demo-variant-wrapper{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.book-a-demo-variant{
+    display: flex;
+    align-items: center;
+    gap:4px;
+}

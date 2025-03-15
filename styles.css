@@ -1,0 +1,49 @@
+@import url("./assets/styles/header.css");
+@import url("./assets/styles/home.css");
+@import url("./assets/styles/companies.css");
+@import url("./assets/styles/features.css");
+@import url("./assets/styles/we-will-take.css");
+@import url("./assets/styles/about.css");
+@import url("./assets/styles/idea.css");
+@import url("./assets/styles/tasks.css");
+@import url("./assets/styles/get-smarter-wrapper.css");
+@import url("./assets/styles/book-a-demo.css");
+@import url("./assets/styles/copyright.css");
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url(./assets/fonts/Inter.ttf);
+}
+/* .font-integer{
+
+    font-family: Inter, sans-serif;
+}
+ */
+
+a{
+  color: black;
+  text-decoration: none;
+}
+.page-wrapper {
+  width: 100%;
+  height: auto;
+}
+
+.page-wrapper-gray {
+  width: 100%;
+  height: auto;
+  background: #f7f9fa;
+}
+
+.page-wrapper-blue{
+  width: 100%;
+  height: auto;
+  background: #0070a0;
+}

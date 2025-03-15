@@ -1,0 +1,65 @@
+.whirl-header {
+  width: 1230px;
+  height: 75px;
+
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.text-logo {
+  font-size: 28px;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+}
+
+.nav-wrapper {
+  display: flex;
+  gap: 18px;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 160%;
+  letter-spacing: 0.01em;
+  color: #33383f;
+}
+.wrapper-logo-nav {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+
+.sign-wrapper {
+  display: flex;
+  gap: 12px;
+}
+
+.header-btn {
+  display: flex;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 160%;
+  letter-spacing: 0.01em;
+  color: #0070a0;
+  border: none;
+  background: white;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.header-btn:hover {
+  background: #0070a0;
+  color: white;
+}

@@ -1,0 +1,98 @@
+.get-smarter-wrapper {
+  width: 1230px;
+  margin: 0 auto;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.get-smarter-title-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.get-smarter-title-wrapper {
+  font-family: " Inter", sans-serif;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 120%;
+  letter-spacing: 0em;
+  color: #1f1f1f;
+}
+
+.see-all-posts {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 159%;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #0070a0;
+}
+.card-get-smarter {
+  width: 355px;
+  height: auto;
+}
+
+.card-get-smarter-image-wrapper {
+  width: 355px;
+  height: 238px;
+}
+
+.card-get-smarter-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.badge-card-get-smarter {
+  width: 122px;
+  height: 22px;
+  background: #e6f7ff;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 133%;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #2c90c9;
+  margin-bottom: 8px;
+}
+
+.card-get-smarter-title {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 125%;
+  letter-spacing: 0.01em;
+  color: #1f1f1f;
+  margin-bottom: 11px;
+}
+
+.card-get-smarter-desc {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  letter-spacing: 0.01em;
+  color: #1f1f1f;
+  margin-bottom: 16px;
+}
+.card-get-smarter-data {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 163%;
+  letter-spacing: 0.02em;
+  color: #1f1f1f;
+}
+
+.card-get-starter-text-wrapper {
+  padding: 25px;
+}
+
+.get-smarter-card-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
