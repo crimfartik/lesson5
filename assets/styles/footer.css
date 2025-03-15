@@ -1,0 +1,86 @@
+.footer-wrapper {
+  width: 1230px;
+  margin: 0 auto;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.built-blue {
+  color: #0070a0;
+}
+
+.built-by {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  letter-spacing: 0.01em;
+  color: #1f1f1f;
+}
+
+.built-by-wrapper {
+  margin-top: 20px;
+}
+
+.footer-left-part-wrapper {
+  display: flex;
+  gap: 80px;
+}
+
+.input-email-footer {
+  padding: 12px;
+  border: none;
+  border-bottom: 1px solid #c2cdd8;
+  margin-top: 16px;
+  outline: none;
+}
+
+.input-arrow-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.sign-up {
+  width: 216px;
+  margin-top: 12px;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.01em;
+  color: #1f1f1f;
+}
+
+.input-email-footer::placeholder {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 154%;
+  letter-spacing: 0.02em;
+  color: #626a72;
+}
+
+.input-email-footer:hover {
+  border: 1px solid #125da7;
+}
+
+.sign-up-margin-zero {
+  margin: 0;
+}
+
+.link-footer {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 160%;
+  letter-spacing: 0.01em;
+  color: #626a72;
+
+}
+
+.title-link-footer {
+  margin-bottom: 16px;
+  color: #1f1f1f;
+}
